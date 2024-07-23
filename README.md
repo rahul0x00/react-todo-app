@@ -1,10 +1,9 @@
 # Getting Started with Create React App
 
-![alt text](./public/app.gif "React Todo App")
 
 You can read step by step tutorial [here](https://medium.com/oli-systems/react-todo-app-tutorial-e935fe716179).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and tailwind csss.
 
 ## Available Scripts
 
